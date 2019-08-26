@@ -1,0 +1,4 @@
+com/macro/mall/common/api/CommonPage.class
+com/macro/mall/common/api/CommonResult.class
+com/macro/mall/common/api/IErrorCode.class
+com/macro/mall/common/api/ResultCode.class
